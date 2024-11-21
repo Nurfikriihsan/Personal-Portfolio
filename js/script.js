@@ -4,7 +4,7 @@ var typed = new Typed(".typing", {
     "",
     "S1",
     "S1 - Teknik Informatika",
-    "Fullstack Developer",
+    " Fresh Graduate",
 
   ],
   typeSpeed: 100,
