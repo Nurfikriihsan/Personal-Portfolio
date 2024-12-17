@@ -337,6 +337,7 @@ h3.my-profession {
   font-size: 20px;
   margin-bottom: 70px;
   color: var(--text-black-700);
+  text-align: justify;
 }
 
 .home .home-img {
@@ -399,6 +400,7 @@ h3.my-profession {
   font-size: 16px;
   line-height: 25px;
   color: var(--text-black-700);
+  text-align: justify;
 }
 
 .about .about-content .personal-info {
