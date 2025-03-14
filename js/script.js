@@ -3,7 +3,7 @@ var typed = new Typed(".typing", {
     "",
     "S1",
     "S1 - Teknik Informatika",
-    " Fresh Graduate",
+    "Fullstack Developer",
 
   ],
   typeSpeed: 100,
